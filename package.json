@@ -1,0 +1,10 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John Magnusson <john@magnusson.gl>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
