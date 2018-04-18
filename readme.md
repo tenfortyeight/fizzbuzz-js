@@ -2,11 +2,11 @@
 
 ## Prerequisities
 * NodeJS
-** On mac: `brew install node`
-** On windows `choco install nodejs -y`
-** Or download from https://nodejs.org/en/
+  * On mac: `brew install node`
+  * On windows `choco install nodejs -y`
+  * Or download from https://nodejs.org/en/
 * Jasmine test runner
-** `npm install jasmine -g`
+  * `npm install jasmine -g`
 
 # Run tests
 ```
